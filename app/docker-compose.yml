@@ -46,3 +46,4 @@ networks:
 
 volumes:
   mysql-data:
+# Docker Compose configuration
