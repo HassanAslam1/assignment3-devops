@@ -31,3 +31,4 @@ curl http://$(minikube ip):30080/api/items
 - `app/` — Application code and Docker files
 - `k8s/` — Kubernetes manifests
 - `.github/workflows/` — GitHub Actions CI/CD
+# Merged docker setup
